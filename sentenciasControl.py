@@ -62,3 +62,10 @@ print(f"El número menor es: {menor}")
 
 """
 
+#For
+palabras = ['Gato', 'León', 'Avión', 'Auto']
+for p in palabras:
+    print (p, len (p))
+    
+for i in range(5):
+    print(i)
